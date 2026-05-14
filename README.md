@@ -4,6 +4,19 @@
 
 A **LABVIEW I2C Communication Controller** is a system that allows LabVIEW to communicate with I2C devices such as sensors, EEPROMs, LED drivers, ADCs, DACs, or microcontrollers.
 
+
+---
+
+# Project Thumbnail
+
+[![LABVIEW I2C Communication Controller](https://img.youtube.com/vi/1E3QDPJo7BQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=1E3QDPJo7BQ)
+
+## 🎥 Project Demonstration Video
+
+▶️ [Watch on YouTube](https://www.youtube.com/watch?v=1E3QDPJo7BQ&utm_source=chatgpt.com)
+
+---
+
 The project typically uses:
 
 * LabVIEW as GUI + controller
